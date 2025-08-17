@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a financial dashboard in Excel for the Kevin Cookie Company that analyzes sales, revenue, and profit trends. It leverages PivotTables, slicers, and interactive charts for clear visualization. The dashboard provides actionable insights into monthly performance and product profitability.
+# Kevin-Cookie-Company-Financial-Data-Analysis (Interactive Dashboard Creation using MS Excel)
+## Project Objective
+To analyze the financial performance of Kevin Cookie Company and build an interactive Excel dashboard that helps track sales, revenue, and profit trends across different products and months.
+
